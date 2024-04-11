@@ -48,6 +48,6 @@ Ejemplo completo:
 Contacto
 Si tienes alguna pregunta o necesitas ayuda para integrar la API en tu proyecto, no dudes en contactar al desarrollador:
 
-Correo electrónico: tuemail@example.com
+Correo electrónico: adivinanzas1991@gmail.com
 
 ¡Gracias por utilizar esta API!
