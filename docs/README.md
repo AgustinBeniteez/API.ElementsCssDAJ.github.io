@@ -1,5 +1,5 @@
-# API para Botones Estilados
-
+<h1 style="color: #44AEFB;"> API para Botones Estilados DAJ</h1>
+![github_cover_banner](https://raw.githubusercontent.com/AgusTheKing/icons/main/imagaguse1.png)
 Esta es una API diseñada para aplicar estilos CSS y generar contenido para botones estilados en aplicaciones web. No es necesario instalarla, simplemente sigue las instrucciones a continuación para integrarla en tu proyecto.
 
 ## Uso
